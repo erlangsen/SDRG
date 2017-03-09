@@ -1,1 +1,4 @@
 # SDRG
+
+In the disordered spin systems, SDRG (strong-disordered renormalization group) was developed to solve for the properties of ground state and low energy excitations. In the RG scheme, we treat the weak couplings perturbatively with successive elimination, then generating effective Hamiltonians. This technique was originally showed by Dasgupta and Ma to study the ground state and low energy behavior of the disordered Heisenberg chain. Later, Daniel Fisher solved the RG equation and showed that RG scheme gives asymptotically exact results for the ground state property of these disordered Heisenberg chains, so called infinite randomness fixed point. 
+In my model, disordered spin-1/2 antiferromagnetism Heisenberg chain flows toward a "ranndom-singlet phase", described by an infinite fixed point, for any amount of disorder. 
