@@ -6,6 +6,5 @@ In this project, disordered spin-1/2 antiferromagnetism Heisenberg chain flows t
 Some publication of mine:
 https://journals.aps.org/prb/abstract/10.1103/PhysRevB.94.174442
 
-The Hamiltonian of the original 1D Antiferromagetic Heisenberg Model :
-
+*The Hamiltonian of the original 1D Antiferromagetic Heisenberg Model :
 ![](http://latex.codecogs.com/gif.latex?\hat{\bf{H}}=-J_{i}\sum_{i}\vec{\bf{S}}_{i}\cdot\vec{\bf{S}}_{i+1})
