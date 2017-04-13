@@ -13,4 +13,4 @@ $\hat{\bf{P}}_{i,i+1} = 1/4-\vec{S}_{i}\vec{S}_{i+1}$
 
 ![equation](http://latex.codecogs.com/gif.latex?\hat{\bf{P}}_{i,i+1}\equiv\frac{1}{4}-\vec{S}_{i}\cdot\vec{S}_{i+1})
 
-$\\ \hat{H}&=\sum_{i=A,B,C}{\hat{H}_i} +J\left (\vec{S}_A\vec{S}_B+\vec{S}_B\vec{S}_C \right )+J_{ts}\vec{S}_t\vec{S}_{A,B,C}\\ \hat{H}_i=-g_{i}\mu_B\vec{B_{ext}}\cdot\vec{S_i}+D_i\hat{S}_i^z^2+E_i\left ( \hat{S}_i^x^2 -\hat{S}_i^y^2\right )$
+$\hat{H}&=\sum_{i=A,B,C}{\hat{H}_i} +J\left (\vec{S}_A\vec{S}_B+\vec{S}_B\vec{S}_C \right )+J_{ts}\vec{S}_t\vec{S}_{A,B,C}$
