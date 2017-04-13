@@ -8,11 +8,10 @@ https://journals.aps.org/prb/abstract/10.1103/PhysRevB.94.174442
 
 * The Hamiltonian of the original 1D Antiferromagetic Heisenberg Model :
 
-\begin{equation}
-\hat{\bf{H}}=-{J_{i}}\sum_{i}\hat{\bf{P}}_{i,i+1}
-\end{equation}
-where 
+$$\hat{\bf{H}}=-{J_{i}}\sum_{i}\hat{\bf{P}}_{i,i+1}$$
+
 $\hat{\bf{P}}_{i,j}$
+
 is a singlet projector on spin i,j
 
 
