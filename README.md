@@ -1,20 +1,3 @@
-<html>
-<head>
-<title>MathJax TeX Test Page</title>
-<script type="text/x-mathjax-config">
-  MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});
-</script>
-<script type="text/javascript"
-  src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-</script>
-</head>
-<body>
-When $a \ne 0$, there are two solutions to \(ax^2 + bx + c = 0\) and they are
-$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
-</body>
-</html>
-
-
 # SDRG
 
 In the disordered spin systems, SDRG (strong-disordered renormalization group) was developed to solve for the properties of ground state and low energy excitations. The basic idea of the SDRG is to find the system’s ground state by successively eliminating degrees of freedom with the highest energy, then generating effective Hamiltonians with fewer degrees of freedom and lower energy. This technique was originally showed by Dasgupta and Ma to study the ground state and low energy behavior of the disordered Heisenberg chain. Later, Daniel Fisher solved the RG equation and showed that RG scheme gives asymptotically exact results for the ground state property of these disordered Heisenberg chains, so called infinite randomness fixed point. 
@@ -24,6 +7,6 @@ Some publication of mine:
 https://journals.aps.org/prb/abstract/10.1103/PhysRevB.94.174442
 
 * The Hamiltonian of the original 1D Antiferromagetic Heisenberg Model :
-<p align="center"> ![](http://latex.codecogs.com/gif.latex?\hat{\bf{H}}=-J_{i}\sum_{i}\vec{\bf{S}}_{i}\cdot\vec{\bf{S}}_{i+1}) </p>
+ ![](http://latex.codecogs.com/gif.latex?\hat{\bf{H}}=-J_{i}\sum_{i}\vec{\bf{S}}_{i}\cdot\vec{\bf{S}}_{i+1}) 
 
-$\beta$
+
