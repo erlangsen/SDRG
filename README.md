@@ -8,4 +8,4 @@ https://journals.aps.org/prb/abstract/10.1103/PhysRevB.94.174442
 
 * The Hamiltonian of the original 1D Antiferromagetic Heisenberg Model :
 
-$$\hat{{H}}=-{J_{i}}\sum_{i}{\hat{S}_{i}$$
+$$\hat{{H}}=-{J_{i}}\sum_{i}\hat{S}_{i}$$
