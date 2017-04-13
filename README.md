@@ -10,9 +10,4 @@ https://journals.aps.org/prb/abstract/10.1103/PhysRevB.94.174442
 
 $$\hat{\bf{H}}=-{J_{i}}\sum_{i}\hat{\bf{P}}_{i,i+1}$$
 
-where $\hat{\bf{P}}_{i,j}$ is a singlet projector on spin i,j
-
-
-
-![equation](http://latex.codecogs.com/gif.latex?\hat{\bf{P}}_{i,i+1}\equiv\frac{1}{4}-\vec{S}_{i}\cdot\vec{S}_{i+1})
-
+where $\hat{\bf{P}}_{i,j}$ is a singlet projector on spin i,j.
