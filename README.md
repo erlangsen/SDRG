@@ -12,4 +12,4 @@ https://journals.aps.org/prb/abstract/10.1103/PhysRevB.94.174442
 
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
-$\beta$
+$$\beta$$
