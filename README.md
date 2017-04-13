@@ -12,4 +12,4 @@ $$\hat{\bf{H}}=-J_{i} \sum_{i} \vec{\bf{S}}_{i} \cdot \vec{\bf{S}}_{i+1}$$
 
 $\hat{\bf{H}}=-J_{i} \sum_{i} \vec{{S}}_{i} \cdot \vec{{S}}_{i+1}$
 
-$\sum_{i} \vec{S}_{i} \cdot $
+$\sum_{i} \vec{S}_{i} \cdot \vec{S}_{i}$
