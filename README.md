@@ -11,3 +11,5 @@ https://journals.aps.org/prb/abstract/10.1103/PhysRevB.94.174442
  ![](http://latex.codecogs.com/gif.latex?\hat{\bf{H}}=-J_{i}\sum_{i}\vec{\bf{S}}_{i}\cdot\vec{\bf{S}}_{i+1}) 
 
 
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
+$\beta$
