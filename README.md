@@ -8,5 +8,6 @@ https://journals.aps.org/prb/abstract/10.1103/PhysRevB.94.174442
 
 * The Hamiltonian of the original 1D Antiferromagetic Heisenberg Model :
 
-<center> ![](http://latex.codecogs.com/gif.latex?\hat{\bf{H}}=-J_{i}\sum_{i}\vec{\bf{S}}_{i}\cdot\vec{\bf{S}}_{i+1}) </center>
+![](http://latex.codecogs.com/gif.latex?\hat{\bf{H}}=-J_{i}\sum_{i}\vec{\bf{S}}_{i}\cdot\vec{\bf{S}}_{i+1}) 
 
+<center>aaa </center>
