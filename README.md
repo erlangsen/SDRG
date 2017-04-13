@@ -10,6 +10,5 @@ https://journals.aps.org/prb/abstract/10.1103/PhysRevB.94.174442
 
 $$\hat{\bf{H}}=-J_{i} \sum_{i} \vec{\bf{S}}_{i} \cdot \vec{\bf{S}}_{i+1}$$
 
-$\hat{\bf{H}}=-J_{i} \sum_{i} \vec{{S}}_{i} \cdot \vec{{S}}_{i+1}$
 
-$$\hat{\bf{H}}=-J_{i} \sum_{i} \vec{{S}}_{i} \cdot$$
+$$\hat{\bf{H}}=-J_{i} \sum_{i} \vec{{S}}_{i} \cdot \vec{{S}}_{i}$$
