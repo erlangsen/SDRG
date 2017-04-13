@@ -1,3 +1,18 @@
+<head>
+<script src='http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML' type='text/javascript'>
+    MathJax.Hub.Config({  
+     TeX: { equationNumbers: { autoNumber: "AMS" } },  
+     tex2jax: {  
+      inlineMath: [ ['$','$'], ["\\(","\\)"] ],  
+      displayMath: [ ['$$','$$'], ["\\[","\\]"] ],  
+      processEscapes: true },  
+     'HTML-CSS': { scale: 90 },  
+     displayIndent: '2em'  
+    });  
+</script>
+</head>
+
+
 # SDRG
 
 In the disordered spin systems, SDRG (strong-disordered renormalization group) was developed to solve for the properties of ground state and low energy excitations. The basic idea of the SDRG is to find the system’s ground state by successively eliminating degrees of freedom with the highest energy, then generating effective Hamiltonians with fewer degrees of freedom and lower energy. This technique was originally showed by Dasgupta and Ma to study the ground state and low energy behavior of the disordered Heisenberg chain. Later, Daniel Fisher solved the RG equation and showed that RG scheme gives asymptotically exact results for the ground state property of these disordered Heisenberg chains, so called infinite randomness fixed point. 
