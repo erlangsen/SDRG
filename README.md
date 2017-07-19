@@ -7,3 +7,9 @@ In this project, disordered spin-1/2 antiferromagnetism Heisenberg chain flows t
 Some publication of mine:
 https://journals.aps.org/prb/abstract/10.1103/PhysRevB.94.174442
 
+Finally, we compared our SDRG results with Projector Monte Carlo Method. 
+
+
+In this paper, we study the quantum critical behavior of strongly disordered quantum spin chains using SDRG, and compare their results to exact Quantum Monte Carlo Method results. Interestingly, we find numerically that the random singlet phase is characterized by logarithmic corrections that are missed by SDRG, which is broadly believed to yield exact results for this phase.
+
+The asymptotic exactness of the SDRG method precisely means that universal properties do not depend on the initial disorder distribution — in general, provided the initial disorder strength is strong enough. In addition, for the Heisenberg chain, it is well known that weak disorder is a relevant perturbation to the clean fixed point, and that any initial disorder distribution should flow to the random singlet fixed point at large distances. There is no doubt in the community that the random bond Heisenberg chain is indeed in a random singlet phase for which SDRG predictions should be exact, and that the QMC results presented in this work largely confirm this.
