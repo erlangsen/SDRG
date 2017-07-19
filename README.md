@@ -7,8 +7,6 @@ In this project, disordered spin-1/2 antiferromagnetism Heisenberg chain flows t
 Some publication of mine:
 https://journals.aps.org/prb/abstract/10.1103/PhysRevB.94.174442
 
-Finally, we compared our SDRG results with Projector Monte Carlo Method. 
-
 
 In this paper, we study the quantum critical behavior of strongly disordered quantum spin chains using SDRG, and compare their results to exact Quantum Monte Carlo Method results. Interestingly, we find numerically that the random singlet phase is characterized by logarithmic corrections that are missed by SDRG, which is broadly believed to yield exact results for this phase.
 
